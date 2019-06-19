@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+      "D:\\project_app\\zxapp"
+    ]
+  ],
+  "_from": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+  "_id": "react-native-alibc-sdk@git+https://github.com/zzz945/react-native-alibc-sdk.git#db5a0dc1eb2546ebb20bfb4005f4810ab3e0e93b",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-alibc-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+    "rawSpec": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+    "saveSpec": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+    "fetchSpec": "https://github.com/zzz945/react-native-alibc-sdk.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/zzz945/react-native-alibc-sdk.git#db5a0dc1eb2546ebb20bfb4005f4810ab3e0e93b",
+  "_spec": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+  "_where": "D:\\project_app\\zxapp",
+  "author": {
+    "name": "张岱岩",
+    "url": "Daiyan Zhang"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "description": "React Native的阿里百川sdk， 包含淘宝授权登录等",
+  "keywords": [
+    "react-native",
+    "alibc",
+    "sdk",
+    "alibaba",
+    "taobao",
+    "baichuan",
+    "login"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-alibc-sdk",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
